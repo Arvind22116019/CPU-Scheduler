@@ -39,9 +39,9 @@ This preemptive variant of SJF prioritizes processes based on remaining burst ti
 Working Snapshots <br>
 
 <br>
-<img src="working snaps/img1.JPG" alt="Working Snapshot 1">
+<img src="img1.JPG" alt="Working Snapshot 1">
 <br>
-<img src="working snaps/img2.JPG" alt="Working Snapshot 2">
+<img src="img2.JPG" alt="Working Snapshot 2">
 <br>
-<img src="working snaps/img3.JPG" alt="Working Snapshot 3">
+<img src="img3.JPG" alt="Working Snapshot 3">
 <br>
